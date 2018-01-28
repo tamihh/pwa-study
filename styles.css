@@ -25,3 +25,19 @@ main {
   grid-auto-flow: row dense;
 }
 
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2{
+  color: #000;
+}
+
+p {
+  color: #666666;
+}
