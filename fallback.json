@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "Your connection crashed",
+      "url": "",
+      "urlToImage": "images/giphy.gif",
+      "description": "Try to loading the page again when you're online."
+    }
+  ]
+}
